@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Java/Modifiers/Make Package-Private" />
+    <ignoreAction name="Java/Declaration/Make method default" />
+  </component>
+</application>

@@ -1,0 +1,12 @@
+<templateSet group="other">
+  <template name="ts" value="    @Override&#10;    public String toString() {&#10;        return ToStringBuilder.reflectionToString(this, ToStringStyle.SHORT_PREFIX_STYLE);&#10;    }" description="ToStringBuilder.reflectionToString" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="tc" value="try {&#10;&#10;} catch (Exception e) {&#10;&#10;}" description="try catch block" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
