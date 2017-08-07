@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*Test.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -25,6 +26,17 @@
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>!</mask>
+      <mask>!T</mask>
+      <mask>!Te</mask>
+      <mask>!Tes</mask>
+      <mask>!Test</mask>
+      <mask>!Test*</mask>
+      <mask>!Test*.</mask>
+      <mask>!Test*.ja</mask>
+      <mask>!Test*.java</mask>
+      <mask>!Test.java</mask>
+      <mask>!*Test.java</mask>
     </recentFileMasks>
   </component>
 </application>
