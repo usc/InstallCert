@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.html</mask>
@@ -27,15 +25,15 @@
       <mask>!Test.java</mask>
       <mask>!*Test.java</mask>
       <mask>。</mask>
-      <mask>*</mask>
-      <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
