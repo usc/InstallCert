@@ -1,0 +1,7 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="admin url">
+      <action id="EditorPaste" />
+    </macro>
+  </component>
+</application>
