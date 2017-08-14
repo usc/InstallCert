@@ -1,5 +1,7 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="antlib:org.apache.ivy.ant" location="" />
+    <resource url="http://ant.apache.org/ivy/schemas/ivy.xsd" location="D:/Tool/apache-ivy-2.4.0/ivy.xsd" />
     <resource url="http://maven.apache.org/xsd/assembly-2.0.0.xsd" location="$USER_HOME$/.IdeaIC2016.3/system/extResources/a7faf726_assembly-2.0.0.xsd" />
   </component>
 </application>
