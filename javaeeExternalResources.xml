@@ -1,5 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
     <resource url="http://ant.apache.org/ivy/schemas/ivy.xsd" location="D:/Tool/apache-ivy-2.4.0/ivy.xsd" />
+    <ignored-resource url="antlib:org.apache.ivy.ant" />
   </component>
 </application>
