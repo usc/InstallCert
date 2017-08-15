@@ -1,5 +1,7 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="antlib:com.pingan.pafa.pizza.deploy.ant" location="D:/Tool/apache-ant-1.9.2-pafa/lib/pafa5-deploy-1.0.6.jar!/com/pingan/pafa/pizza/deploy/ant/antlib.xml" />
+    <resource url="antlib:org.apache.ivy.ant" location="D:/Tool/apache-ant-1.9.2-pafa/lib/ivy-2.4.0.jar!/org/apache/ivy/ant/antlib.xml" />
     <resource url="http://ant.apache.org/ivy/schemas/ivy.xsd" location="D:/Tool/apache-ivy-2.4.0/ivy.xsd" />
   </component>
 </application>
