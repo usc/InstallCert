@@ -3,6 +3,7 @@
     <ignoreFiles list="*.hprof;*.iml;*.ipr;*.iws;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.classpath;.git;.hg;.idea;.project;.settings;.svn;CVS;__pycache__;_svn;bin;build;idea;node_modules;target;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="vue" type="HTML" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping ext="pk" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
